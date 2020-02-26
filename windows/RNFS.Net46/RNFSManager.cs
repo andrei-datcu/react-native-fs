@@ -79,7 +79,7 @@ namespace RNFS
                     { "RNFSRoamingDirectoryPath", KnownFolders.RoamingAppData.Path },
                     { "RNFSDocumentDirectoryPath",  KnownFolders.Documents.Path },
                     { "RNFSTemporaryDirectoryPath", KnownFolders.InternetCache.Path },
-                    { "RNFSPicturesDirectoryPath", KnownFolders.CameraRoll.Path },
+                    { "RNFSPicturesDirectoryPath", KnownFolders.Pictures.Path },
                     { "RNFSFileTypeRegular", 0 },
                     { "RNFSFileTypeDirectory", 1 },
                 };
